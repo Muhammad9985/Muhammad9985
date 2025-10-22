@@ -40,6 +40,19 @@ I’m a passionate Software Engineer and PHP Developer focused on crafting user-
 - 🧠 **AI Chatbot (Virtual Doctor)**  
   *Detects illness based on user-entered symptoms using AI.*
 
+  - 🦷 **Dental Clinic Management System**  
+  *Manages appointments, treatments, and patient records with ease.*
+
+- 🫀 **Vascular Clinic System**  
+  *Advanced solution for vascular specialists to handle patient care digitally.*
+
+- 🏫 **University Website & Portal**  
+  *A complete academic platform for managing courses, departments, and students.*
+
+- 💬 **Real-time Chat Application**  
+  *Supports messaging, voice, and call features for smooth communication.*
+  
+
 - 🌐 **Portfolio Website:** [mr-software.online](https://mr-software.online)
 
 ---
