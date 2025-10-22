@@ -40,7 +40,7 @@ I’m a passionate Software Engineer and PHP Developer focused on crafting user-
 - 🧠 **AI Chatbot (Virtual Doctor)**  
   *Detects illness based on user-entered symptoms using AI.*
 
-  - 🦷 **Dental Clinic Management System**  
+- 🦷 **Dental Clinic Management System**  
   *Manages appointments, treatments, and patient records with ease.*
 
 - 🫀 **Vascular Clinic System**  
