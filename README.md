@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Rafique (Muhammad9985)
 
-**Junior Software Engineer at [SMBBIT, Karachi](https://smbbit.gos.pk/)**  
+**Software Engineer at [SMBBIT, Karachi](https://smbbit.gos.pk/)**  
 Founder of [MR Software](https://mr-software.online) — Delivering powerful, responsive, and modern web applications.
 
 ---
