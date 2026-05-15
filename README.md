@@ -15,7 +15,9 @@ I’m a passionate Software Engineer and PHP Developer focused on crafting user-
 
 ## 💡 Skills & Technologies
 
-- **PHP (Core & OOP)**
+- **PHP**
+- **Python**
+- **Python Libraries: Flask, Django, Pandas, NumPy, Requests, OpenCV, Selenium, Tkinter**
 - **MySQL**
 - **JavaScript / jQuery**
 - **HTML5 / CSS3 / Bootstrap**
