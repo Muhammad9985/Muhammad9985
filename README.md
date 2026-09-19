@@ -111,19 +111,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td valign="top">
         <b>🏥 Software Engineer</b><br/>
         <a href="https://smbbit.gos.pk/">SMBBIT, Karachi</a><br/>
         <sub><i>Shaheed Mohtarma Benazir Bhutto Institute of Trauma</i></sub><br/>
         <br/>
         <img src="https://img.shields.io/badge/Status-Active_Engineer-22C55E?style=flat-square" alt="Active" />
       </td>
-      <td>
-        • Architecting core modules for <b>Hospital ERP (HMS)</b>: OPD/IPD flows, EMR, lab test dispatches, and emergency ward triage.<br/>
-        • Engineering an automated <b>Payroll & HR System</b> with dynamic tax logic, attendance verification, and salary generation.<br/>
+      <td align="justify" valign="top">
+        • Architecting core modules for <b>Hospital ERP (HMS)</b>: OPD/IPD flows, EMR, lab test dispatches, and emergency ward triage.<br/><br/>
+        • Engineering an automated <b>Payroll & HR System</b> with dynamic tax logic, attendance verification, and salary generation.<br/><br/>
         • Building a transparent <b>Procurement & Inventory Engine</b> with multi-tier approval matrices and audit logging.
       </td>
-      <td>
+      <td valign="top">
         <code>Healthcare ERP</code><br/>
         <code>Financial Payroll</code><br/>
         <code>Procurement Audits</code><br/>
@@ -131,19 +131,19 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top">
         <b>🚀 Founder & Lead Engineer</b><br/>
         <a href="https://mr-software.online">MR Software</a><br/>
         <sub><i>Digital Solutions & Web / Mobile Agency</i></sub><br/>
         <br/>
         <img src="https://img.shields.io/badge/Venture-Founder-00B4D8?style=flat-square" alt="Founder" />
       </td>
-      <td>
-        • Delivering bespoke full-stack web applications, clinical practice platforms, and custom ERP solutions for private organizations.<br/>
-        • Engineering real-time mobile applications (including the <b>Xoom</b> video calling engine) using <b>Flutter & Android</b>.<br/>
+      <td align="justify" valign="top">
+        • Delivering bespoke full-stack web applications, clinical practice platforms, and custom ERP solutions for private organizations.<br/><br/>
+        • Engineering real-time mobile applications (including the <b>Xoom</b> video calling engine) using <b>Flutter & Android</b>.<br/><br/>
         • Cloud storage integrations (Alibaba Cloud OSS & Google Cloud) and technical SEO optimizations.
       </td>
-      <td>
+      <td valign="top">
         <code>Flutter & Android</code><br/>
         <code>WebRTC Video Apps</code><br/>
         <code>Custom ERPs</code><br/>
