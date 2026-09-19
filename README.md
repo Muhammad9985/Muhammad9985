@@ -104,88 +104,50 @@
 <table>
   <thead>
     <tr>
-      <th width="32%" align="left">🏢 Role &amp; Organization</th>
-      <th width="48%" align="left">⚡ Key Scope &amp; Engineering Contributions</th>
-      <th width="20%" align="left">🛠️ Technologies &amp; Focus</th>
+      <th width="35%">Role & Organization</th>
+      <th width="45%">Key Scope & Engineering Contributions</th>
+      <th width="20%">Focus Areas</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
-        <a href="https://smbbit.gos.pk/" target="_blank">
-          <img src="https://img.shields.io/badge/SMBBIT-Karachi_Govt-0F172A?style=for-the-badge&logo=hospital&logoColor=22C55E&labelColor=1E293B" alt="SMBBIT Karachi" />
-        </a>
-        <br/><br/>
+      <td>
         <b>🏥 Software Engineer</b><br/>
-        <sub><i>Shaheed Mohtarma Benazir Bhutto Institute of Trauma</i></sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Domain-Healthcare_ERP-22C55E?style=flat-square" alt="Healthcare ERP" />
-        <img src="https://img.shields.io/badge/Status-Active_Engineer-00B4D8?style=flat-square" alt="Active" />
+        <a href="https://smbbit.gos.pk/">SMBBIT, Karachi</a><br/>
+        <sub><i>Shaheed Mohtarma Benazir Bhutto Institute of Trauma</i></sub><br/>
         <br/>
-        <sub>📍 Karachi, Pakistan</sub>
+        <img src="https://img.shields.io/badge/Status-Active_Engineer-22C55E?style=flat-square" alt="Active" />
       </td>
-      <td valign="top">
-        <b>🏥 Hospital ERP &amp; Clinical Informatics:</b>
-        <ul>
-          <li>Architecting mission-critical <b>HMS modules</b>: OPD/IPD flows, emergency triage, electronic medical records (EMR), and bed tracking.</li>
-          <li>Optimizing pathology, radiology, and pharmacy dispatch channels with sub-second database transactions.</li>
-        </ul>
-        <b>💰 Financial &amp; Payroll Automation:</b>
-        <ul>
-          <li>Engineered automated payroll processing with dynamic tax deduction rules, overtime calculations, and batch payslip generation.</li>
-          <li>Synchronized biometric attendance logs with department shift rosters and leave management.</li>
-        </ul>
-        <b>🧾 Procurement &amp; Supply Chain Engine:</b>
-        <ul>
-          <li>Created an auditable pipeline for purchase requisitions (PR), supplier quotes, and approval matrices.</li>
-        </ul>
+      <td>
+        • Architecting core modules for <b>Hospital ERP (HMS)</b>: OPD/IPD flows, EMR, lab test dispatches, and emergency ward triage.<br/>
+        • Engineering an automated <b>Payroll & HR System</b> with dynamic tax logic, attendance verification, and salary generation.<br/>
+        • Building a transparent <b>Procurement & Inventory Engine</b> with multi-tier approval matrices and audit logging.
       </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /><br/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" /><br/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /><br/>
-        <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="APIs" /><br/>
-        <img src="https://img.shields.io/badge/RBAC_Security-E11D48?style=flat-square" alt="Security" />
+      <td>
+        <code>Healthcare ERP</code><br/>
+        <code>Financial Payroll</code><br/>
+        <code>Procurement Audits</code><br/>
+        <code>PHP • MySQL • APIs</code>
       </td>
     </tr>
     <tr>
-      <td valign="top">
-        <a href="https://mr-software.online" target="_blank">
-          <img src="https://img.shields.io/badge/MR_Software-Agency_Hub-0F172A?style=for-the-badge&logo=google-chrome&logoColor=00B4D8&labelColor=1E293B" alt="MR Software" />
-        </a>
-        <br/><br/>
-        <b>🚀 Founder &amp; Lead Architect</b><br/>
-        <sub><i>Digital Solutions &amp; Web / Mobile Engineering</i></sub>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Venture-Founder-00B4D8?style=flat-square" alt="Founder" />
-        <img src="https://img.shields.io/badge/Status-Active_Agency-22C55E?style=flat-square" alt="Active" />
+      <td>
+        <b>🚀 Founder & Lead Engineer</b><br/>
+        <a href="https://mr-software.online">MR Software</a><br/>
+        <sub><i>Digital Solutions & Web / Mobile Agency</i></sub><br/>
         <br/>
-        <sub>🌐 <a href="https://mr-software.online">mr-software.online</a></sub>
+        <img src="https://img.shields.io/badge/Venture-Founder-00B4D8?style=flat-square" alt="Founder" />
       </td>
-      <td valign="top">
-        <b>📱 Real-Time Mobile &amp; Video Applications:</b>
-        <ul>
-          <li>Architected <b>Xoom</b> — high-performance cross-platform video calling and conferencing app using <b>Flutter, Android SDK, and WebRTC</b>.</li>
-          <li>Integrated real-time screen sharing, peer-to-peer audio pipelines, and background push notifications.</li>
-        </ul>
-        <b>⚡ Enterprise Web Platforms &amp; Clinical Portals:</b>
-        <ul>
-          <li>Delivered customized EMR systems for dental and vascular surgical clinics with digital appointment scheduling.</li>
-          <li>Engineered academic university admissions and student administrative portals.</li>
-        </ul>
-        <b>☁️ Cloud Storage &amp; Technical SEO:</b>
-        <ul>
-          <li>Integrated multi-cloud asset management (Alibaba Cloud OSS &amp; Google Cloud) with 100/100 Core Web Vitals acceleration.</li>
-        </ul>
+      <td>
+        • Delivering bespoke full-stack web applications, clinical practice platforms, and custom ERP solutions for private organizations.<br/>
+        • Engineering real-time mobile applications (including the <b>Xoom</b> video calling engine) using <b>Flutter & Android</b>.<br/>
+        • Cloud storage integrations (Alibaba Cloud OSS & Google Cloud) and technical SEO optimizations.
       </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /><br/>
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /><br/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br/>
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" /><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/>
-        <img src="https://img.shields.io/badge/Alibaba_OSS-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" alt="Cloud" />
+      <td>
+        <code>Flutter & Android</code><br/>
+        <code>WebRTC Video Apps</code><br/>
+        <code>Custom ERPs</code><br/>
+        <code>Cloud Integrations</code>
       </td>
     </tr>
   </tbody>
