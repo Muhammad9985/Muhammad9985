@@ -1,79 +1,40 @@
-# 👋 Hi, I'm Muhammad Rafique (Muhammad9985)
+<!-- ============================================================== -->
+<!-- HEADER SECTION WITH DYNAMIC ANIMATED BANNER & TYPING EFFECT   -->
+<!-- ============================================================== -->
 
-**Software Engineer at [SMBBIT, Karachi](https://smbbit.gos.pk/)**  
-Founder of [MR Software](https://mr-software.online) — Delivering powerful, responsive, and modern web applications.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Muhammad%20Rafique&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Founder%20%40%20MR%20Software&descAlignY=60&descAlign=50" width="100%" alt="Muhammad Rafique Header" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Muhammad9985">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+SMBBIT%2C+Karachi;Founder+of+MR+Software;Full+Stack+PHP+%26+Python+Specialist;Healthcare+ERP+%26+Automation+Architect;100m+Sprint+Gold+Medalist+%F0%9F%8F%85" alt="Typing SVG" />
+  </a>
+</p>
 
-## ✨ About Me
-
-“Turning ideas into secure, fast, and modern web experiences.”
-
-I’m a passionate Software Engineer and PHP Developer focused on crafting user-friendly, scalable, and SEO-optimized web solutions. With hands-on experience in hospital ERP systems, payroll automation, and AI-powered chatbots, my mission is to empower organizations and wow users with digital excellence.
-
----
-
-## 💡 Skills & Technologies
-
-- **PHP**
-- **Python**
-- **Python Libraries: Flask, Django, Pandas, NumPy, Requests, OpenCV, Selenium, Tkinter**
-- **MySQL**
-- **JavaScript / jQuery**
-- **HTML5 / CSS3 / Bootstrap**
-- **WordPress**
-- **REST APIs**
-- **SEO Optimization**
-- **Google Cloud & Alibaba Cloud OSS**
-
----
-
-## 🚀 Notable Projects
-
-- 🏥 **Hospital Management System**  
-  *Complete ERP-style hospital software for seamless operations.*
-
-- 💼 **Payroll & HR Management System**  
-  *Automates salary, attendance, and leave management.*
-
-- 🧾 **Procurement Management System**  
-  *Efficiently tracks purchases, suppliers, and approvals.*
-
-- 🧠 **AI Chatbot (Virtual Doctor)**  
-  *Detects illness based on user-entered symptoms using AI.*
-
-- 🦷 **Dental Clinic Management System**  
-  *Manages appointments, treatments, and patient records with ease.*
-
-- 🫀 **Vascular Clinic System**  
-  *Advanced solution for vascular specialists to handle patient care digitally.*
-
-- 🏫 **University Website & Portal**  
-  *A complete academic platform for managing courses, departments, and students.*
-
-- 💬 **Real-time Chat Application**  
-  *Supports messaging, voice, and call features for smooth communication.*
-  
-
-- 🌐 **Portfolio Website:** [mr-software.online](https://mr-software.online)
+<p align="center">
+  <a href="https://mr-software.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-rafique-944b05159" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rafiqalbaloshi3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Muhammad9985">
+    <img src="https://komarev.com/ghpvc/?username=Muhammad9985&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Hobbies & Interests
+### 🌟 About Me
 
-- 🥇 **Athletics** (Gold Medalist - 100m race)
-- 🌱 **Planting & Crafting**
-- 🧠 **Exploring New Technologies & Cybersecurity**
-- ⚽ **Outdoor Activities & Sports**
-
----
-
-## 🔗 Connect with Me
-
-- 🌐 [Portfolio](https://mr-software.online)
-- 💼 [LinkedIn](https://linkedin.com/in/muhammad-rafique-944b05159)
-- 📧 Email: rafiqalbaloshi3@gmail.com
-
----
-
-> **Let's build secure, fast, and modern web experiences together!**
+```yaml
+name: Muhammad Rafique
+current_role: Software Engineer at SMBBIT, Karachi
+venture: Founder of MR Software (mr-software.online)
+mission: "Turning ideas into secure, high-performance, and modern digital web experiences"
+philosophy: Clean Architecture • High Reliability • Extreme Speed
+sports: 🥇 100m Sprint Gold Medalist
