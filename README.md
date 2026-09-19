@@ -40,18 +40,43 @@
 
 ---
 
-### 📑 Table of Contents
-- [✨ Executive Overview](#-executive-overview)
-- [💼 Professional Background](#-professional-background)
-- [🛠️ Technical Skills & Competencies](#️-technical-skills--competencies)
-- [🚀 Flagship & Enterprise Projects](#-flagship--enterprise-projects)
-- [💼 Services & Solutions Offered](#-services--solutions-offered)
-- [📊 GitHub Stats & Contributions](#-github-stats--contributions)
-- [🏆 Athletics & Beyond Code](#-athletics--beyond-code)
-- [📬 Connect & Collaborate](#-connect--collaborate)
+<!-- ============================================================== -->
+<!-- 3. INTERACTIVE TABLE OF CONTENTS / QUICK NAVIGATION HUB        -->
+<!-- ============================================================== -->
+
+<div align="center">
+
+### 🧭 Quick Navigation Hub
+
+| 🎯 [**Overview**](#overview) | 💼 [**Experience**](#experience) | 🛠️ [**Tech Arsenal**](#skills) | 🚀 [**Projects**](#projects) |
+| :---: | :---: | :---: | :---: |
+| 💡 [**Services**](#services) | 📊 [**Analytics**](#stats) | 🥇 [**Athletics**](#athletics) | 📬 [**Contact**](#contact) |
+
+<br/>
+
+<p align="center">
+  <a href="#overview"><img src="https://img.shields.io/badge/Overview-0F172A?style=for-the-badge&logo=compass&logoColor=38BDF8&labelColor=1E293B" alt="Overview" /></a>
+  &nbsp;
+  <a href="#experience"><img src="https://img.shields.io/badge/Experience-0F172A?style=for-the-badge&logo=briefcase&logoColor=38BDF8&labelColor=1E293B" alt="Experience" /></a>
+  &nbsp;
+  <a href="#skills"><img src="https://img.shields.io/badge/Tech_Arsenal-0F172A?style=for-the-badge&logo=codeforces&logoColor=38BDF8&labelColor=1E293B" alt="Skills" /></a>
+  &nbsp;
+  <a href="#projects"><img src="https://img.shields.io/badge/Projects-0F172A?style=for-the-badge&logo=rocket&logoColor=38BDF8&labelColor=1E293B" alt="Projects" /></a>
+  <br/><br/>
+  <a href="#services"><img src="https://img.shields.io/badge/Services-0F172A?style=for-the-badge&logo=server&logoColor=38BDF8&labelColor=1E293B" alt="Services" /></a>
+  &nbsp;
+  <a href="#stats"><img src="https://img.shields.io/badge/Analytics-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=1E293B" alt="Stats" /></a>
+  &nbsp;
+  <a href="#athletics"><img src="https://img.shields.io/badge/Athletics-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8&labelColor=1E293B" alt="Athletics" /></a>
+  &nbsp;
+  <a href="#contact"><img src="https://img.shields.io/badge/Get_In_Touch-0F172A?style=for-the-badge&logo=mailgun&logoColor=38BDF8&labelColor=1E293B" alt="Contact" /></a>
+</p>
+
+</div>
 
 ---
 
+<a name="overview"></a>
 ### ✨ Executive Overview
 
 ```yaml
@@ -79,6 +104,7 @@ Through **MR Software**, I partner with businesses, educational institutes, and 
 
 ---
 
+<a name="experience"></a>
 ### 💼 Professional Background
 
 ```
@@ -97,6 +123,7 @@ Through **MR Software**, I partner with businesses, educational institutes, and 
 
 ---
 
+<a name="skills"></a>
 ### 🛠️ Technical Skills & Competencies
 
 #### 💻 Programming & Scripting Languages
@@ -143,6 +170,7 @@ Through **MR Software**, I partner with businesses, educational institutes, and 
 
 ---
 
+<a name="projects"></a>
 ### 🚀 Flagship & Enterprise Projects
 
 #### 1. 🏥 Enterprise Hospital Management System (HMS / ERP)
@@ -215,6 +243,7 @@ Through **MR Software**, I partner with businesses, educational institutes, and 
 
 ---
 
+<a name="services"></a>
 ### 💼 Services & Solutions Offered
 
 ```
@@ -233,6 +262,7 @@ Through **MR Software**, I partner with businesses, educational institutes, and 
 
 ---
 
+<a name="stats"></a>
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
@@ -247,6 +277,7 @@ Through **MR Software**, I partner with businesses, educational institutes, and 
 
 ---
 
+<a name="athletics"></a>
 ### 🏆 Athletics & Beyond Code
 
 When I step away from my IDE, I channel the same intensity, focus, and drive into physical discipline:
@@ -258,6 +289,7 @@ When I step away from my IDE, I channel the same intensity, focus, and drive int
 
 ---
 
+<a name="contact"></a>
 ### 📬 Connect & Collaborate
 
 Are you looking to build an **enterprise hospital ERP**, automate your **company payroll**, integrate an **AI diagnostics chatbot**, or launch a **cutting-edge web application**? Let's connect!
