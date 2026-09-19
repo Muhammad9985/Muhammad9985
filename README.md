@@ -4,12 +4,12 @@
 <!-- 1. HERO BANNER & IDENTITY                                      -->
 <!-- ============================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=250&section=header&text=Muhammad%20Rafique&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20Founder%20%40%20MR%20Software&descAlignY=60&descAlign=50" width="100%" alt="Muhammad Rafique Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=250&section=header&text=Muhammad%20Rafique&fontSize=52&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20Architect%20%E2%80%A2%20Founder%20%40%20MR%20Software&descAlignY=60&descAlign=50" width="100%" alt="Muhammad Rafique Banner" />
 
 <br/>
 
 <a href="https://github.com/Muhammad9985">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&lines=Software+Engineer+%40+SMBBIT%2C+Karachi;Founder+%26+Lead+Engineer+%40+MR+Software;Full+Stack+PHP+%26+Python+Specialist;Architect+of+Enterprise+Healthcare+ERP+Systems;Specialized+in+Payroll+%26+Procurement+Automation;AI-Powered+Medical+Diagnostics+%26+Chatbots;100m+Sprint+Gold+Medalist+%F0%9F%8F%85" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=Software+Engineer+%40+SMBBIT%2C+Karachi;Founder+%26+Lead+Engineer+%40+MR+Software;Flutter+%26+Android+Mobile+App+Developer;Creator+of+Xoom+Real-Time+Video+Meeting+App;Full+Stack+PHP+%26+Python+Specialist;Architect+of+Enterprise+Healthcare+ERP+Systems;Specialized+in+Payroll+%26+Procurement+Automation;AI-Powered+Medical+Diagnostics+%26+Chatbots;100m+Sprint+Gold+Medalist+%F0%9F%8F%85" alt="Typing Banner" />
 </a>
 
 <br/><br/>
@@ -84,13 +84,13 @@
     <td width="58%" valign="top">
       <h4>👨‍💻 About Me & Engineering Philosophy</h4>
       <p>
-        I am a results-oriented <b>Software Engineer</b> with deep specialization in developing fault-tolerant, high-throughput enterprise applications. My work bridges full-stack engineering with real-world institutional efficiency — automating healthcare workflows, payroll cycles, and procurement audits.
+        I am a versatile <b>Software Engineer & Mobile Application Architect</b> with deep specialization in developing fault-tolerant enterprise web applications, real-time WebRTC media networks, and cross-platform mobile apps using <b>Flutter & Android</b>.
       </p>
       <p>
-        Currently engineering software at <b>SMBBIT, Karachi</b>, I design and scale systems that handle mission-critical patient records and institutional operations with <b>zero room for latency or failure</b>.
+        Currently engineering software at <b>SMBBIT, Karachi</b>, I design and scale systems that handle mission-critical patient records, hospital logistics, and administrative automation with <b>zero room for latency or failure</b>.
       </p>
       <blockquote>
-        <i>"Turning complex organizational workflows into secure, high-speed, and automated digital software."</i>
+        <i>"Turning complex organizational workflows and real-time communications into secure, high-speed, and automated digital software."</i>
       </blockquote>
     </td>
     <td width="42%" valign="top">
@@ -99,10 +99,10 @@
         <li>🏢 <b>Current Role:</b> Software Engineer at SMBBIT</li>
         <li>🚀 <b>Founder:</b> <a href="https://mr-software.online">MR Software</a></li>
         <li>📍 <b>Location:</b> Karachi, Pakistan</li>
-        <li>💡 <b>Core Domains:</b> Healthcare ERPs, Payroll, AI Bots</li>
+        <li>📱 <b>Mobile Focus:</b> Flutter, Dart, Android SDK, WebRTC</li>
+        <li>💡 <b>Core Domains:</b> Healthcare ERPs, Video Calling, Payroll, AI</li>
         <li>🥇 <b>Honor:</b> 100m Sprint Gold Medalist</li>
-        <li>🌱 <b>Interests:</b> Cybersecurity, Cloud Scaling, Athletics</li>
-        <li>📫 <b>Status:</b> Open for Enterprise Collaborations</li>
+        <li>📫 <b>Status:</b> Open for Web & Mobile Collaborations</li>
       </ul>
     </td>
   </tr>
@@ -146,20 +146,20 @@
       <td>
         <b>🚀 Founder & Lead Engineer</b><br/>
         <a href="https://mr-software.online">MR Software</a><br/>
-        <sub><i>Digital Solutions & Web Engineering Agency</i></sub><br/>
+        <sub><i>Digital Solutions & Web / Mobile Agency</i></sub><br/>
         <br/>
         <img src="https://img.shields.io/badge/Venture-Founder-00B4D8?style=flat-square" alt="Founder" />
       </td>
       <td>
         • Delivering bespoke full-stack web applications, clinical practice platforms, and custom ERP solutions for private organizations.<br/>
-        • Integrating cloud storage infrastructure via <b>Google Cloud & Alibaba Cloud OSS</b> for scalable media management.<br/>
-        • Applying technical SEO, Core Web Vitals optimization, and modern UI architectures to ensure high conversion and sub-second load times.
+        • Engineering real-time mobile applications (including the <b>Xoom</b> video calling engine) using <b>Flutter & Android</b>.<br/>
+        • Cloud storage integrations (Alibaba Cloud OSS & Google Cloud) and technical SEO optimizations.
       </td>
       <td>
-        <code>Custom Web Apps</code><br/>
-        <code>Cloud Integrations</code><br/>
-        <code>Technical SEO</code><br/>
-        <code>AI Diagnostics</code>
+        <code>Flutter & Android</code><br/>
+        <code>WebRTC Video Apps</code><br/>
+        <code>Custom ERPs</code><br/>
+        <code>Cloud Integrations</code>
       </td>
     </tr>
   </tbody>
@@ -174,6 +174,16 @@
   <tr>
     <th width="25%" align="left">Category</th>
     <th width="75%" align="left">Technologies, Frameworks & Tools</th>
+  </tr>
+  <tr>
+    <td><b>📱 Mobile & Cross-Platform</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+    </td>
   </tr>
   <tr>
     <td><b>💻 Languages & Core</b></td>
@@ -237,6 +247,27 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <b>📹 Xoom - Real-Time Video Meeting App</b><br/>
+        <sub><i>High-Performance Video Conferencing</i></sub><br/><br/>
+        <img src="https://img.shields.io/badge/Domain-Video_Conferencing-007FFF?style=flat-square" alt="Video Conferencing" />
+        <img src="https://img.shields.io/badge/Platform-Flutter_/_Android-3DDC84?style=flat-square" alt="Platform" />
+      </td>
+      <td>
+        • Multi-party HD video conferencing and crystal-clear audio calling application with ultra-low latency WebRTC streaming.<br/>
+        • Instant unique meeting ID generation, secure meeting passwords, waiting room admission, and real-time screen sharing.<br/>
+        • In-call interactive group messaging, participant hand-raising, host controls (mute all, remove), and camera/mic toggles.<br/>
+        • Engineered with clean Flutter state management, background call notifications, and adaptive bandwidth streaming.
+      </td>
+      <td>
+        <code>Flutter</code> <code>Dart</code><br/>
+        <code>Android SDK</code><br/>
+        <code>WebRTC</code> <code>Firebase</code><br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Status-Active_App-007FFF?style=flat-square" alt="Active App" />
+      </td>
+    </tr>
     <tr>
       <td>
         <b>🏥 Hospital Management System (HMS)</b><br/>
@@ -400,16 +431,16 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
+      <h4>📱 Mobile App Development</h4>
+      <p>High-performance cross-platform mobile apps using Flutter & Android SDK, WebRTC video/audio conferencing, and Firebase integration.</p>
+    </td>
+    <td width="33%" valign="top">
       <h4>🏥 Healthcare & Hospital ERPs</h4>
       <p>Custom hospital administration systems, EMR software, patient triage, pathology tracking, and clinical appointment management.</p>
     </td>
     <td width="33%" valign="top">
       <h4>⚡ Custom Web Applications</h4>
       <p>Tailored high-performance web systems, custom dashboards, administrative portals, and secure RESTful API architectures.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤖 AI & Python Automation</h4>
-      <p>Interactive medical chatbots, diagnostic symptom matchers, automated web scrapers, data processing pipelines, and desktop tools.</p>
     </td>
   </tr>
   <tr>
@@ -418,12 +449,12 @@
       <p>Automated salary schedules, biometric attendance synchronization, tax withholdings, leave hierarchies, and audit-proof workflows.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>☁️ Cloud Storage & Scalability</h4>
-      <p>Secure object storage integrations (Alibaba Cloud OSS & Google Cloud), database index optimizations, and high-availability servers.</p>
+      <h4>🤖 AI & Python Automation</h4>
+      <p>Interactive medical chatbots, diagnostic symptom matchers, automated web scrapers, data processing pipelines, and desktop tools.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>📈 Technical SEO & Performance</h4>
-      <p>Core Web Vitals acceleration, site speed audits, schema markup implementation, and Google ranking optimizations.</p>
+      <h4>☁️ Cloud & Technical SEO</h4>
+      <p>Alibaba Cloud OSS & Google Cloud storage, database query optimizations, Core Web Vitals tuning, and Google rank acceleration.</p>
     </td>
   </tr>
 </table>
@@ -487,7 +518,7 @@
 
 <h3>Let's Build High-Impact, Fast, and Secure Software Together!</h3>
 <p>
-  Whether you need an <b>enterprise hospital ERP</b>, an <b>automated payroll system</b>, an <b>AI diagnostic engine</b>, or a <b>bespoke web application</b>, I am ready to collaborate.
+  Whether you need an <b>enterprise hospital ERP</b>, a <b>Flutter/Android video calling app</b>, an <b>automated payroll system</b>, or an <b>AI diagnostic engine</b>, I am ready to collaborate.
 </p>
 
 <br/>
