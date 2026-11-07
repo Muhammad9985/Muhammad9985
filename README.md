@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mr-software.online" target="_blank">
+  <a href="https://mr-software.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Official_Portfolio-mr--software.online-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
@@ -511,7 +511,7 @@
 
 <br/>
 
-<a href="https://mr-software.online" target="_blank">
+<a href="https://mr-software.com" target="_blank">
   <img src="https://img.shields.io/badge/Visit_MR_Software-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MR Software" />
 </a>
 &nbsp;&nbsp;
