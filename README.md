@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://mr-software.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-mr--software.online-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Official_Portfolio-mr--software.com-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/muhammad-rafique-944b05159" target="_blank">
@@ -85,7 +85,7 @@
       <h4>⚡ Quick Snapshot</h4>
       <ul>
         <li>🏢 <b>Current Role:</b> Software Engineer at SMBBIT</li>
-        <li>🚀 <b>Founder:</b> <a href="https://mr-software.online">MR Software</a></li>
+        <li>🚀 <b>Founder:</b> <a href="https://mr-software.com">MR Software</a></li>
         <li>📍 <b>Location:</b> Karachi, Pakistan</li>
         <li>📱 <b>Mobile Focus:</b> Flutter, Dart, Android SDK, WebRTC</li>
         <li>💡 <b>Core Domains:</b> Healthcare ERPs, Video Calling, Payroll, AI</li>
@@ -133,7 +133,7 @@
     <tr>
       <td valign="top">
         <b>🚀 Founder & Lead Engineer</b><br/>
-        <a href="https://mr-software.online">MR Software</a><br/>
+        <a href="https://mr-software.com">MR Software</a><br/>
         <sub><i>Digital Solutions & Web / Mobile Agency</i></sub><br/>
         <br/>
         <img src="https://img.shields.io/badge/Venture-Founder-00B4D8?style=flat-square" alt="Founder" />
@@ -401,7 +401,7 @@
         • Client inquiry capture and interactive portfolio showcases.
       </td>
       <td>
-        <a href="https://mr-software.online">mr-software.online</a><br/>
+        <a href="https://mr-software.com">mr-software.com</a><br/>
         <code>SEO Optimized</code><br/>
         <code>High Velocity</code><br/>
         <br/>
