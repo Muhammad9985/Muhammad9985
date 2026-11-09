@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/💼_LinkedIn-Muhammad_Rafique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:rafiqalbaloshi3@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email_Me-rafiqalbaloshi3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:muhammad.rafique@mr-software.com">
+    <img src="https://img.shields.io/badge/✉️_Email_Me-muhammad.rafique%40mr--software.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Muhammad9985">
@@ -519,7 +519,7 @@
   <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:rafiqalbaloshi3@gmail.com">
+<a href="mailto:muhammad.rafique@mr-software.com">
   <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
